@@ -1,4 +1,4 @@
-# NPL---Extact key-words-and-create-viz
+# NPL---Extract key-words-and-create-viz
 
 WOMEN'S CLOTHING E-COMMERCE
 Topic and Background
